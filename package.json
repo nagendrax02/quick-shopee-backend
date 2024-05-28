@@ -1,0 +1,17 @@
+{
+  "name": "quick-shopee-backend",
+  "version": "1.0.0",
+  "description": "Quick shopee express js server",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "quickshopee"
+  ],
+  "author": "Nagendra Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
